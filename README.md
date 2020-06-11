@@ -23,7 +23,8 @@
 * Download Arduino IDE program at arduino.cc
 * go File -> Preferences -> Additional board manger URL -> add http://arduino.esp8266.com/stable/package_esp8266com_index.json
 * go Tool -> Board -> Board Manager -> serch ESP -> install esp8266 by ESP8266 Community
-* gp Tool -> Board -> choose NodeMCU 1.0 (ESP-12E Module)
+* go Tool -> Board -> choose NodeMCU 1.0 (ESP-12E Module)
+* go Tool -> library -> add libray -> zip.library -> add DHT22.zip file
  
 3. Upload project.py file to raspberry pi.
 >> How to Upload

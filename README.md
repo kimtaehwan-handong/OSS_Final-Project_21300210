@@ -27,6 +27,7 @@
  
 3. Upload project.py file to raspberry pi.
 >> How to Upload
+
 Python module install
 * sudo apt-get install python-pip
 Flask server install

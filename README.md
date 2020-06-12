@@ -46,3 +46,4 @@ Please send e-mail what you need.
 Also, I add the OSS_FinalProject_IOT.pptx file about how to execute this porject.
 
 And, This is video link address. You can see the operation of this project. 
+<https://youtu.be/hu_WtsQIeik>

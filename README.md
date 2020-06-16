@@ -47,3 +47,9 @@ Also, I add the OSS_FinalProject_IOT.pptx file about how to execute this porject
 
 And, This is video link address. You can see the operation of this project. 
 <https://youtu.be/hu_WtsQIeik>
+
+## 5. Reference
+* I refer to the class material of Smart IOT System Design at handong universirty.
+* I add Door sensor and upgrade the temperature sensor from DHT11 to DHT22.
+* I make new code for ESP8266 board. And, Change the MQTT publish command.
+* I change the LED control part at Raspberry pi3 to make it easy.
